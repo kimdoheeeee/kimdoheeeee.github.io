@@ -23,7 +23,7 @@ repository               : "kimdoheeeee/kimdoheeeee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/themes/profile.png"
+  avatar           : "./images/themes/profile.png"
   name             : "김도희"
   pronouns         : # example: "she/her"  
   bio              : "뷰티 테크(Beauty-Tech) 분야의 AI 융합 서비스 개발자를 꿈꿉니다."
