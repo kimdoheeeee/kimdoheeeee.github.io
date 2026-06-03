@@ -22,12 +22,13 @@ redirect_from:
 - Tools: Git, GitHub, VS Code, Docker
 
 ## 4. Projects
-- Summary: 데이터 분석 역량 향상을 위한 개인 프로젝트
+- Summary: 데이터 분석 및 추천 알고리즘 역량 향상을 위한 
+자기주도 개인 프로젝트
 - Period: 2026 여름방학(진행 예정 또는 계획)
 - Tech Stack: Python, Machine Learning
 - Role: 본인 역할- Key Features: 피부 타입 데이터 수집 및 전처리,
  사용자 맞춤 화장품 추천, 추천 알고리즘 구현
-- Results: 데이터 분석 실무 역량 향상
+- Results: 데이터 분석 실무 역량 및 머신러닝 모델링 프로세스 지식 습득 목적
 - GitHub: 링크- Demo / Image: 업데이트 예정
 
 
