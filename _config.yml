@@ -23,7 +23,7 @@ repository               : "kimdoheeeee/kimdoheeeee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "assets/images/profile.png"
   name             : "김도희"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "kimdoheeeee"
+  github           : "https://github.com/kimdoheeeee"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
